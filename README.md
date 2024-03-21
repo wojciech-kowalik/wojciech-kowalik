@@ -9,5 +9,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PJdmD4Bydxy_5a3NoMm7F2wUkX_cZx_K/view?usp=sharing](https://drive.google.com/file/d/1PJdmD4Bydxy_5a3NoMm7F2wUkX_cZx_K/view?usp=sharing)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciech-kowalik&show_icons=true&locale=en" alt="wojciech-kowalik" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></p>
+<table align="center" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+              <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciech-kowalik&show_icons=true&locale=en" alt="wojciech-kowalik" />
+        </td>
+        <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></td>
+    </tr>
+</table>
