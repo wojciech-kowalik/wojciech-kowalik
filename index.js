@@ -26,8 +26,12 @@ const tableStats = `
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></td>
     </tr>
 </table>`;
-const lastUpdate = `Last update: ${new Date().toLocaleString()}`;
-
+const lastUpdate = `<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">${new Date().toLocaleString(
+  "pl-PL",
+  {
+    timeZone: "Europe/Warsaw",
+  }
+)}</span>`;
 (() => {
   const content = `${title}\n${description}\n${counter}\n${points}\n${tableStats}\n${lastUpdate}`;
 
