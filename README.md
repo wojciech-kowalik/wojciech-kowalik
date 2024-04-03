@@ -12,7 +12,7 @@
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciech-kowalik&show_icons=true&locale=en" alt="wojciech-kowalik" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciech-kowalik&show_icons=true" alt="wojciech-kowalik" />
         </td>
         <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></td>
