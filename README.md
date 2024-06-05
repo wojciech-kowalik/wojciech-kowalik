@@ -4,7 +4,7 @@
 <ul>
 <li>💬 Ask me about <strong>frontend, backend</strong></li>
 <li>📫 How to reach me <strong><a href="mailto:kontakt@wojciech-kowalik.pl">kontakt@wojciech-kowalik.pl</a></strong></li>
-<li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1sDfjupYssCU0kQnevKMeW4qjUr8s6_TX/view?usp=sharing">https://drive.google.com/file/d/1sDfjupYssCU0kQnevKMeW4qjUr8s6_TX/view?usp=sharing</a></li>
+<li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1PJdmD4Bydxy_5a3NoMm7F2wUkX_cZx_K/view?usp=sharing">https://drive.google.com/file/d/1PJdmD4Bydxy_5a3NoMm7F2wUkX_cZx_K/view?usp=sharing</a></li>
 </ul>
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
@@ -15,4 +15,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></td>
     </tr>
 </table>
-<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">3.06.2024, 02:27:26</span>
+<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">5.06.2024, 11:51:06</span>
