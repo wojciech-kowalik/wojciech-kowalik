@@ -15,7 +15,7 @@ const counter = `<p align="left"> <img src="https://komarev.com/ghpvc/?username=
 const points = `
 - 💬 Ask me about **frontend, backend**
 - 📫 How to reach me **kontakt@wojciech-kowalik.pl**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PJdmD4Bydxy_5a3NoMm7F2wUkX_cZx_K/view?usp=sharing](https://drive.google.com/file/d/1PJdmD4Bydxy_5a3NoMm7F2wUkX_cZx_K/view?usp=sharing)`;
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sDfjupYssCU0kQnevKMeW4qjUr8s6_TX/view?usp=sharing](https://drive.google.com/file/d/1sDfjupYssCU0kQnevKMeW4qjUr8s6_TX/view?usp=sharing)`;
 const tableStats = `
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
