@@ -9,10 +9,10 @@
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciech-kowalik&show_icons=true&count_private=true" alt="wojciech-kowalik" />
+              <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=wojciech-kowalik&show_icons=true" alt="wojciech-kowalik" />
         </td>
         <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></td>
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wojciech-kowalik&layout=compact" alt="wojciech-kowalik" /></td>
     </tr>
 </table>
-<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">5.02.2026, 07:38:42</span>
+<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">5.02.2026, 07:44:05</span>
