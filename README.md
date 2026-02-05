@@ -6,13 +6,15 @@
 <li>📫 How to reach me <strong><a href="mailto:kontakt@wojciech-kowalik.pl">kontakt@wojciech-kowalik.pl</a></strong></li>
 <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1sDfjupYssCU0kQnevKMeW4qjUr8s6_TX/view?usp=sharing">https://drive.google.com/file/d/1sDfjupYssCU0kQnevKMeW4qjUr8s6_TX/view?usp=sharing</a></li>
 </ul>
+
+
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojciech-kowalik&show_icons=true&count_private=true" alt="wojciech-kowalik" />
+              <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=wojciech-kowalik&show_icons=true" alt="wojciech-kowalik" />
         </td>
         <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojciech-kowalik&show_icons=true&locale=en&layout=compact" alt="wojciech-kowalik" /></td>
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wojciech-kowalik&layout=compact" alt="wojciech-kowalik" /></td>
     </tr>
 </table>
 <b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">2.02.2026, 01:51:08</span>
