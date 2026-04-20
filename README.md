@@ -15,4 +15,4 @@
         <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wojciech-kowalik&layout=compact" alt="wojciech-kowalik" /></td>
     </tr>
 </table>
-<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">13.04.2026, 03:02:38</span>
+<b style="font-size: smaller;">Last update:</b> <span style="font-size: smaller;">20.04.2026, 03:03:18</span>
